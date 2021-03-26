@@ -1,4 +1,4 @@
-# [📈 Live Status](https://MaximStone.github.io/salon-uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://intentop.github.io/salon-uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Maxim Kosterin](VseInstrumenti.ru), powered by [Upptime](https://github.com/upptime/upptime).
 
