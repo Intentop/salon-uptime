@@ -4,17 +4,17 @@
     "url": "https://www.salon-love-forever.ru/wedding/",
     "icon": "https://favicons.githubusercontent.com/www.salon-love-forever.ru",
     "slug": "salon-love",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1413,
-    "timeDay": 1373,
-    "timeWeek": 1413,
-    "timeMonth": 1413,
-    "timeYear": 1413,
+    "time": 1395,
+    "timeDay": 1314,
+    "timeWeek": 1332,
+    "timeMonth": 1395,
+    "timeYear": 1395,
     "dailyMinutesDown": {}
   }
 ]
